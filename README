@@ -1,0 +1,28 @@
+
+Drop
+----
+
+Compiling
+---------
+
+1. Enter the source directory (the directory in which this README is found).
+2. Run `qmake'. This will generate the Makefile.
+3. Run `make' to compile. This will generate an executable.
+
+Playing
+-------
+
+1. There are two players (Yellow and Red). Yellow always gets to start the game.
+2. Each player can be configured either as a Human Player or a Computer Player. This can be done using the 
+   `Players' menu.
+3. A Human Player plays using the keyboard. To move the coin left and right use the left arrow and right arrow
+   keys respectively. To drop the coin in a particular column, press the down arrow key when the coin is on 
+   top of that column.
+4. A player gets a point when any four of the coins of his color are present consecutively in a line 
+   (vertically, horizontally or diagonally).
+5. The game ends when all the slots in the table are filled.
+
+Credits
+-------
+
+This game has been developed by Chaitanya Reddy Patti
