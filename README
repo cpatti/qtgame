@@ -2,6 +2,13 @@
 Drop
 ----
 
+Description
+-----------
+
+This is a Connect4 game written using the Qt Framework.
+This code has been written using an old Qt version.
+Needs to be updated to make it work with the latest Qt version(s).
+
 Compiling
 ---------
 
